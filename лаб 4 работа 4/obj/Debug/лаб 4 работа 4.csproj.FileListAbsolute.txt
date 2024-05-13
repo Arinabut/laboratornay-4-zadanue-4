@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\App.g.cs
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4_MarkupCompile.cache
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\bin\Debug\лаб 4 работа 4.exe.config
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\bin\Debug\лаб 4 работа 4.exe
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\bin\Debug\лаб 4 работа 4.pdb
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4_MarkupCompile.lref
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.g.resources
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб_4_работа_4.Properties.Resources.resources
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.exe
+C:\Users\user\Desktop\21 Ири\лаб 4 работа 4\obj\Debug\лаб 4 работа 4.pdb
